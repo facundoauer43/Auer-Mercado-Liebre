@@ -1,1 +1,2 @@
-# Auer-Mercado-Liebre
+# integradorClementeSolanaML
+Proyecto integrador individual DH - ML
